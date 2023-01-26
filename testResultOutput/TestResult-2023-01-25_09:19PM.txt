@@ -1,0 +1,7 @@
+current_datetime:  2023-01-25 09:19PM
+
+Hello World! This is ECL. 
+This is a test for scheduling automation.
+
+--- 8.7023e-05 seconds to complete current task. --------
+
